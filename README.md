@@ -1,2 +1,0 @@
-# Patriot
-Hello World
